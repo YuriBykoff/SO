@@ -2,13 +2,8 @@
 
 Execute o seguinte comando no terminal:
 
-```
-python main.py <algoritmo> <tamanho_memoria> <sequencia_paginas>
 
-    <algoritmo>: Selecione entre fifo, lru, ou optimal.
-    <tamanho_memoria>: Defina o número de quadros de página.
-    <sequencia_paginas>: Sequência de páginas separadas por vírgulas (sem espaços).
-```
+`python main.py <algoritmo> <tamanho_memoria> <sequencia_paginas>`
 
 Exemplo de uso:
 
